@@ -17,7 +17,7 @@ This repository contains a Nuxt-based frontend and a .NET backend for the TeamPu
 ## Prerequisites
 
 - **Node.js** (LTS recommended) and **npm**
-- **.NET SDK** (version matching your environment; .NET 7/8+ recommended)
+- **.NET SDK** (version matching your environment; .NET 8 recommended)
 
 ---
 
