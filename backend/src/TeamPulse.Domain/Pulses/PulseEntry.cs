@@ -10,7 +10,7 @@ public sealed class PulseEntry
 
     private PulseEntry()
     {
-    } // EF
+    }
 
     private PulseEntry(Guid id, int score, string? comment, Guid categoryId, DateTimeOffset createdAt)
     {
